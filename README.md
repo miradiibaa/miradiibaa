@@ -1,4 +1,4 @@
-# Hi there, I'm miradiiba ♡
+## Hi there, I'm miradiiba ♡
 ### ✦ a.k.a **miwaa** ✦
 
 <img width="150" alt="gif cute" src="https://github.com/user-attachments/assets/657d50fa-3778-466a-9118-45a71639c3d5" />
