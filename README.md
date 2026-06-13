@@ -1,16 +1,57 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**miradiibaa/miradiibaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Amira Azza Nuuradiba 👋
+### ✦ a.k.a **miwaa** ✦
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=18&duration=3000&pause=1000&color=F7A0B8&center=true&vCenter=true&width=480&lines=Frontend+Developer+in+progress;UI%2FUX+Enthusiast+%E2%9C%A6+Figma;Always+learning+something+new;Coffee+%2B+Code+%2B+Canva+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 🌷 About Me
+
+- 🎓 **Informatics Engineering** student
+- 💻 Interested in **Web Development**, **UI/UX Design**, and **IoT**
+- 🎨 I enjoy turning ideas into clean, aesthetic interfaces
+- 🌱 Currently exploring **PHP/MySQL**, **IoT with ESP32 & Firebase**, and design systems
+- ✍️ Hobbies: cooking, writing, crafting, gaming, and digital art
+
+---
+
+### 🛠️ Tech & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,cpp,c,figma,arduino,firebase" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Canva-FBB6C4?style=for-the-badge&logo=canva&logoColor=702459"/>
+  <img src="https://img.shields.io/badge/Figma-F7A0B8?style=for-the-badge&logo=figma&logoColor=702459"/>
+  <img src="https://img.shields.io/badge/Microsoft_Office-FAE9D7?style=for-the-badge&logo=microsoft-office&logoColor=702459"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_border=true&bg_color=FAF5EC&title_color=F7A0B8&icon_color=FBB6C4&text_color=702459" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=FAF5EC&ring=F7A0B8&fire=FBB6C4&currStreakLabel=F7A0B8&sideLabels=702459&currStreakNum=702459&sideNums=702459&dates=702459" height="150"/>
+</p>
+
+---
+
+### ✦ Let's Connect
+
+<p align="center">
+  <a href="mailto:amiraazzanuuradiba0707@gmail.com"><img src="https://img.shields.io/badge/Gmail-FBB6C4?style=for-the-badge&logo=gmail&logoColor=702459"/></a>
+  <a href="https://instagram.com/miradiiba"><img src="https://img.shields.io/badge/Instagram-F7A0B8?style=for-the-badge&logo=instagram&logoColor=FAF5EC"/></a>
+  <a href="https://linkedin.com/in/miradiiba"><img src="https://img.shields.io/badge/LinkedIn-FAE9D7?style=for-the-badge&logo=linkedin&logoColor=702459"/></a>
+</p>
+
+<div align="center">
+
+✦ miwspace · hello! ✦
+
+</div>
