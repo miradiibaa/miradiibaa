@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Amira Azza Nuuradiba 👋
+# Hi there, I'm miradiiba ♡
 ### ✦ a.k.a **miwaa** ✦
 
 <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=18&duration=3000&pause=1000&color=F7A0B8&center=true&vCenter=true&width=480&lines=Frontend+Developer+in+progress;UI%2FUX+Enthusiast+%E2%9C%A6+Figma;Always+learning+something+new;Coffee+%2B+Code+%2B+Canva+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
@@ -9,17 +9,17 @@
 
 ---
 
-### 🌷 About Me
+### About Me 𐔌՞. .՞𐦯
 
-- 🎓 **Informatics Engineering** student
-- 💻 Interested in **Web Development**, **UI/UX Design**, and **IoT**
-- 🎨 I enjoy turning ideas into clean, aesthetic interfaces
-- 🌱 Currently exploring **PHP/MySQL**, **IoT with ESP32 & Firebase**, and design systems
-- ✍️ Hobbies: cooking, writing, crafting, gaming, and digital art
+- **Informatics Engineering** student
+- Interested in **Web Development**, and **UI/UX Design**
+- I enjoy turning ideas into clean, aesthetic interfaces
+- Currently exploring **PHP/MySQL**, and design systems
+- Hobbies : cooking, writing, crafting, and gaming
 
 ---
 
-### 🛠️ Tech & Tools
+### Tech & Tools ☕︎
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,cpp,c,figma,arduino,firebase" />
@@ -33,7 +33,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats ♡⸝⸝
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_border=true&bg_color=FAF5EC&title_color=F7A0B8&icon_color=FBB6C4&text_color=702459" height="150"/>
@@ -42,7 +42,7 @@
 
 ---
 
-### ✦ Let's Connect
+### ✦ Let's Connect ꪆৎ﹗﹗
 
 <p align="center">
   <a href="mailto:amiraazzanuuradiba0707@gmail.com"><img src="https://img.shields.io/badge/Gmail-FBB6C4?style=for-the-badge&logo=gmail&logoColor=702459"/></a>
@@ -52,6 +52,6 @@
 
 <div align="center">
 
-✦ miwspace · hello! ✦
+✦ miwspace · hello ! ✦
 
 </div>
