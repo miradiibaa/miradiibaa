@@ -3,7 +3,7 @@
 # Hi there, I'm miradiiba ♡
 ### ✦ a.k.a **miwaa** ✦
 
-<img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=18&duration=3000&pause=1000&color=F7A0B8&center=true&vCenter=true&width=480&lines=Frontend+Developer+in+progress;UI%2FUX+Enthusiast+%E2%9C%A6+Figma;Always+learning+something+new;Coffee+%2B+Code+%2B+Canva+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=18&duration=3000&pause=1000&color=F7A0B8&center=true&vCenter=true&width=480&lines=Frontend+Developer+in+progress;UI%2FUX+Enthusiast+%E2%9C%A6+Figma;Always+learning+something+new;Ice+Cream+%2B+Code+%2B+Canva+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 
 </div>
 
