@@ -1,9 +1,12 @@
-<div align="center">
-
 # Hi there, I'm miradiiba ♡
 ### ✦ a.k.a **miwaa** ✦
 
+<img width="150" alt="gif cute" src="https://github.com/user-attachments/assets/657d50fa-3778-466a-9118-45a71639c3d5" />
+<p>✦ welcome to my page ✦</p>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=18&duration=3000&pause=1000&color=F7A0B8&center=true&vCenter=true&width=480&lines=Frontend+Developer+in+progress;UI%2FUX+Enthusiast+%E2%9C%A6+Figma;Always+learning+something+new;Ice+Cream+%2B+Code+%2B+Canva+%3D+%E2%99%A1" alt="Typing SVG" />
+</div>
+
 
 </div>
 
