@@ -10,32 +10,31 @@
 
 </div>
 
-
 ---
 
 ### About Me 𐔌՞. .՞𐦯
 
-- **Informatics Engineering** student
-- Interested in **Web Development**, and **UI/UX Design**
-- I enjoy turning ideas into clean, aesthetic interfaces
-- Currently exploring **PHP/MySQL**, and design systems
-- Hobbies : cooking, writing, crafting, and gaming
+- 𖦹° **Informatics Engineering** student
+- 𖦹° Interested in **Web Development**, and **UI/UX Design**
+- 𖦹° I enjoy turning ideas into clean, aesthetic interfaces
+- 𖦹° Currently exploring **PHP/MySQL**, and design systems
+- 𖦹° Hobbies : cooking, writing, crafting, and gaming
 
 ---
 
 ### Tech & Tools ☕︎
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,cpp,c,figma,arduino,firebase" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,cpp,c,figma" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Canva-FBB6C4?style=for-the-badge&logo=canva&logoColor=702459"/>
   <img src="https://img.shields.io/badge/Figma-F7A0B8?style=for-the-badge&logo=figma&logoColor=702459"/>
   <img src="https://img.shields.io/badge/Microsoft_Office-FAE9D7?style=for-the-badge&logo=microsoft-office&logoColor=702459"/>
 </p>
 
----
+--- 
 
 ### GitHub Stats ♡⸝⸝
 
@@ -44,8 +43,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=miradiibaa&hide_border=true&background=FAF5EC&ring=F7A0B8&fire=FBB6C4&currStreakLabel=F7A0B8&sideLabels=702459&currStreakNum=702459&sideNums=702459&dates=702459" height="150"/>
 </p>
 
----
+</div>
 
+---
 ### ✦ Let's Connect ꪆৎ﹗﹗
 
 <p align="center">
