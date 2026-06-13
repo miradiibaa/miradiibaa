@@ -36,7 +36,7 @@
 ### GitHub Stats ♡⸝⸝
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_border=true&bg_color=FAF5EC&title_color=F7A0B8&icon_color=FBB6C4&text_color=702459" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=miradiibaa&show_icons=true&hide_title=true&hide_border=true&bg_color=FAF5EC&title_color=F7A0B8&icon_color=FBB6C4&text_color=702459" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=FAF5EC&ring=F7A0B8&fire=FBB6C4&currStreakLabel=F7A0B8&sideLabels=702459&currStreakNum=702459&sideNums=702459&dates=702459" height="150"/>
 </p>
 
