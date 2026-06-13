@@ -7,17 +7,10 @@
 
 <p>✦ welcome to my page ✦</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=18&duration=3000&pause=1000&color=F7A0B8&center=true&vCenter=true&width=480&lines=Frontend+Developer+in+progress;UI%2FUX+Enthusiast+%E2%9C%A6+Figma;Always+learning+something+new;Ice+Cream+%2B+Code+%2B+Canva+%3D+%E2%99%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=480&lines=Frontend+Developer+in+progress;UI%2FUX+Enthusiast+%E2%9C%A6+Figma;Always+learning+something+new;Ice+Cream+%2B+Code+%2B+Canva+%3D+%E2%99%A1" alt="Typing SVG" />
 
 </div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=18&duration=3000&pause=1000&color=F7A0B8&center=true&vCenter=true&width=480&lines=Frontend+Developer+in+progress;UI%2FUX+Enthusiast+%E2%9C%A6+Figma;Always+learning+something+new;Ice+Cream+%2B+Code+%2B+Canva+%3D+%E2%99%A1" alt="Typing SVG" />
-</div>
-
-
-</div>
-
-</div>
 
 ---
 
@@ -49,7 +42,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=miradiibaa&show_icons=true&hide_title=true&hide_border=true&bg_color=FAF5EC&title_color=F7A0B8&icon_color=FBB6C4&text_color=702459" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=FAF5EC&ring=F7A0B8&fire=FBB6C4&currStreakLabel=F7A0B8&sideLabels=702459&currStreakNum=702459&sideNums=702459&dates=702459" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miradiibaa&hide_border=true&background=FAF5EC&ring=F7A0B8&fire=FBB6C4&currStreakLabel=F7A0B8&sideLabels=702459&currStreakNum=702459&sideNums=702459&dates=702459" height="150"/>
 </p>
 
 ---
